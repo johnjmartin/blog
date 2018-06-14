@@ -1,0 +1,12 @@
+baseURL = "https://johnjmartin.github.io/"
+languageCode = "en-us"
+title = "johnjmartin"
+description = "something about small things"
+
+theme = "hyde-hyde"
+paginate = 2
+
+[author]
+    name = "John Martin"
+    email = "johnjosephmartin@icloud.com"
+
