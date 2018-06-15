@@ -1,0 +1,40 @@
+baseURL: "https://johnjmartin.github.io/"
+languageCode: "en-us"
+title: "johnjmartin"
+tags:
+  - "blog"
+  - "programming"
+  - "personal"
+
+author:
+  name: "John Martin"
+  email: "johnjosephmartin@icloud.com"
+
+theme:  "hyde-hyde"
+params:
+  description: "something about small things"
+  themeColor: "theme-base-0d"
+  authorimage: "/headshot.jpg"
+  author: "johnjmartin"
+  dateformat: "Jan 2, 2006"
+  highlightjs: true
+  social:
+    github: johnjmartin
+    instagram: john.j.martin
+    linkedin: john-j-martin-
+    email: johnjosephmartin@icloud.com
+
+
+
+## Main Menu
+menu:
+  main:
+  - identifier: about
+    name: about
+    pre: <i class='fa fa-user'></i>
+    url: /about/
+    weight: -110
+  - name: posts
+    pre: <i class='fa fa-bookmark'></i>
+    url: /posts/
+    weight: -100

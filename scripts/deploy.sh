@@ -1,4 +1,5 @@
 #!/bin/bash
+set -eux pipefail
 
 echo "Deploying updates to GitHub..."
 
