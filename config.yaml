@@ -29,14 +29,14 @@ params:
 
 
 ## Main Menu
-menu:
-  main:
-  - identifier: about
-    name: about
-    pre: <i class='fa fa-user'></i>
-    url: /about/
-    weight: -110
-  - name: posts
-    pre: <i class='fa fa-bookmark'></i>
-    url: /posts/
-    weight: -100
+# menu:
+#   main:
+  # - identifier: about
+  #   name: about
+  #   pre: <i class='fa fa-user'></i>
+  #   url: /about/
+  #   weight: -110
+  # - name: posts
+  #   pre: <i class='fa fa-bookmark'></i>
+  #   url: /posts/
+  #   weight: -100
